@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ProjetTM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Clothing</item>
+        <item>Furnishing</item>
+        <item>Toys</item>
+        <item>Sports</item>
+        <item>Beauty</item>
+        <item>Food</item>
+        <item>Vehicles</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>new</item>
+        <item>used</item>
+    </string-array>
+
+</resources>
